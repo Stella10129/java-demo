@@ -4,7 +4,7 @@
     用途不同。XML用来传输或存储数据；html用来展示数据。
 2.XML语法
     必须有根节点（常用的是root标签）e.g.<root></root>
-    XML的头声明可有可无的，如果有的话，一般包括version版本号（1.0）encoding编码（utf-8）e.g.<?xml version = "1.0" encoding = "utf-8">
+    XML的头声明可有可无的，如果有的话，一般包括version版本号（1.0）encoding编码（utf-8）e.g.<?xml version = "1.0" encoding = "utf-8"?>
     所有XML元素都必须是成对标签  e.g.<name></name>
     XML标签不可以交叉  e.g. <a> aaa <b> bbb
     XML中的注释  e.g.<!--   -->
